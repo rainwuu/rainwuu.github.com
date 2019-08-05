@@ -48,7 +48,7 @@ table {
 }
 a,a:hover,a:active,a:link{
 	text-decoration: none;
-	color: #666666;
+	color: #999999;
 }
 .gray{
 	 -webkit-filter: grayscale(100%);
