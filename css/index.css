@@ -59,7 +59,6 @@ footer {
 
 .foolter-item {
 	line-height: 24px;
-<<<<<<< .mine
 }
 .left-silder,.right-silder{
 	flex: 1;
@@ -136,9 +135,4 @@ footer {
 }
 .border-bottom{
 	top: 340px;
-	left: 150px;
-}||||||| .r6
-}
-=======
-}
->>>>>>> .r7
+	left: 150px;}
