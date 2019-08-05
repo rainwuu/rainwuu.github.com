@@ -1,0 +1,54 @@
+body {
+	background-image: url(../img/main.jpg);
+	background-repeat: repeat;
+	height: 100%;
+	width: 100%;
+	position: absolute;
+	display: flex;
+	flex-direction: column;
+}
+
+.main {
+	flex: 1;
+}
+
+header,
+footer {
+	background-color: rgba(0, 0, 0, .3);
+	height: 100px;
+}
+
+.menubox,.footer-box,.main-box{
+	width: 60%;
+	margin-left: 30%;
+	color: #666666;
+	font-size: 14px;
+}
+.logo{
+	display: block;
+	height: 40px;
+	float: left;
+	margin-top: 30px;
+}
+.menu{
+	display: block;
+	float: left;
+	margin-left: 20px;
+}
+.menu-item{
+	line-height: 100px;
+	padding:0 20px;
+	cursor: pointer;
+}
+.menu-item:hover{
+	color: aqua;
+	transition: all .5s; 
+}
+
+.footer-box{
+	font-size: 12px;
+	margin-top: 26px;
+}
+.foolter-item{
+	line-height: 24px;
+}
