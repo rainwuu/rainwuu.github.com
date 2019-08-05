@@ -18,13 +18,14 @@ footer {
 .footer-box,
 .main-box {
 	width: 60%;
-	margin-left: 30%;
+	margin-left: 20%;
 	color: #666666;
 	font-size: 14px;
 }
 
 .main-box {
 	flex: 1 !importent;
+	display: flex;
 }
 
 .logo {
@@ -58,4 +59,86 @@ footer {
 
 .foolter-item {
 	line-height: 24px;
+<<<<<<< .mine
 }
+.left-silder,.right-silder{
+	flex: 1;
+}
+.right-silder{
+	position: relative;
+}
+.title{
+	line-height: 30px;
+	text-align: right;
+	margin: 160px 40px 110px;
+	flex: 1;
+}
+.title-ch{
+	background-color: #307e8f;
+	color: #ffffff;	
+	padding: 5px 10px;
+	font-weight: bold;
+}
+.info-box{	
+	display: flex;
+}
+.title-en{
+	font-style: italic;
+	color: #307e8f;
+}
+.info-pic{
+	height: 154px;
+	max-width: 220px;
+	overflow: hidden;
+	flex: 1;
+}
+.info-list{
+	flex: 1;
+	width: 50%;
+	margin: 0 10px;
+}
+.info-title,
+.info-content{
+	line-height: 24px;
+	padding-left: 10px;
+}
+.info-detail{
+	padding: 10px;
+	line-height: 24px;
+	text-indent: 2em;
+	width: 100%;
+}
+.font-big,.font-small{
+	font-family: serif;
+	font-weight: bolder;
+	line-height: 60px;
+	padding-left: 20px;
+}
+.font-big{
+	margin-top: 250px;
+	font-size: 60px;
+}
+.font-small{
+	margin-top: 60px;
+	font-size: 36px;
+	font-style: italic;
+}
+.border-top,.border-bottom{
+	border: #00FFFF 1px solid;
+	height: 340px;
+	width:240px ;
+	position: absolute;
+}
+.border-top{
+	top: 100px;
+	left: 20px;
+	
+}
+.border-bottom{
+	top: 340px;
+	left: 150px;
+}||||||| .r6
+}
+=======
+}
+>>>>>>> .r7
