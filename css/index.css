@@ -24,7 +24,7 @@ footer {
 }
 
 .main-box {
-	flex: 1;
+	flex: 1 !importent;
 }
 
 .logo {
